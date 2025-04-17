@@ -30,7 +30,7 @@ This is a simple Node.js Express API that allows users to register, get user dat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/register-login-api.git
+git clone https://github.com/zohaib-eng/Task.git
 cd Auth-System
 
 ## Start server
